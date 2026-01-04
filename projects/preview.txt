@@ -7,4 +7,7 @@ USACO - platinum (in progress)
 Shanghai American School - Linear Algebra course proposal
 
 Passion projects (Considering publication)
-AI-optimized envy-competition model
+AI-optimized envy-competition model (completed, can be found on my codepastebin)
+  This project no longer uses AI gradient descent, as it has less accuracy than the current approach.
+
+Image-contextualized multiple image translation (automatic) - expected preview API in 2-3 months.
